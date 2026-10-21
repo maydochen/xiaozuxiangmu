@@ -1,0 +1,6 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyCharm / IDE 配置
+.idea/
